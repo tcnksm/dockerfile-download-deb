@@ -6,7 +6,7 @@
 [LICENSE]: https://github.com/tcnksm/dockerfile-download-deb/blob/master/LICENCE
 [dockerhub]: https://registry.hub.docker.com/u/tcnksm/download-deb/
 
-When you write [bosh](http://bosh.io/) job which needs deb package, normally you download deb package and store it on blob store for reproducing. But you may develop on OSX. `tcnksm/download-deb` helps fetching deb packages anywhere you are.
+When you write [bosh](http://bosh.io/) job which needs deb package, normally you download deb package and store it on blob store for reproducing. But you may develop on OSX. `tcnksm/download-deb` helps fetching deb packages anywhere you are. This is just simple helper image for your daily workflow :coffee:
 
 ## Supported tags
 
